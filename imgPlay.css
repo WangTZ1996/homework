@@ -1,0 +1,27 @@
+div{
+	left: 50%;
+	top: 50%;
+}
+
+.box{
+	position: absolute;
+	margin-left: -250px;
+	margin-top: -250px;
+	height: 500px;
+	width: 500px; 
+	background: #507;
+}
+
+.cell{
+	position: absolute;
+	margin-left: -200px;
+	margin-top: -200px;
+	height: 400px;
+	width: 400px; 
+	background: #fff;
+}
+
+img{
+	width: 100%;
+	height: 100%;
+}
